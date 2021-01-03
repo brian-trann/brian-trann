@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-trann&layout=compact&theme=vue)
 
-<h5>My Stack <img src="/assets/pcb.gif" width="50px"/></h5>
+<h5>My Stack</h5>
 <img src="https://img.shields.io/badge/-Python-white?style=flat-square&logo=python" />
 <img src="https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript" />
