@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-trann&layout=compact&theme=vue)
 
-<h5>My Stack</h5>
-<img src="https://img.shields.io/badge/-Python-white?style=flat-square&logo=python" />
-<img src="https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript" />
+| My Stack | Frameworks/Libraries |
+|-|-|
+| <img alt="Python" src="https://img.shields.io/badge/-Python-white?style=flat-square&logo=Python" /> | <img alt="React" src="https://img.shields.io/badge/-React-white?style=flat-square&logo=react" /> |
+| <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript" /> | <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=flat-square"/> |
+| <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white"/> | <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?&style=flat-square&logo=flask&logoColor=white"/> |
+| <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql" /> |  |
