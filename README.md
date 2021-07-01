@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Brian's github stats](https://github-readme-stats.vercel.app/api?username=brian-trann&show_icons=true&theme=vue&hide=stars,prs,contribs,issues)
+![Brian's github stats](https://github-readme-stats.vercel.app/api?username=brian-trann&show_icons=true&hide=stars,prs,contribs,issues)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-trann&layout=compact&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-trann&layout=compact)
 
 | My Stack | Frameworks/Libraries |
 |-|-|
