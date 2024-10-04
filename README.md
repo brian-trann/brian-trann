@@ -1,3 +1,3 @@
-### Hi there 👋
+My name is Brian, and I'm currently a Senior Software Engineer at Broker Public Portal. I work on both backend and frontend development (though mainly the performance side—I still need to look up how to center a div on MDN Web Docs).
 
-My name is Brian Tran, and I'm currently a backend software engineer at [REMAX](https://www.remax.com/). I primarily use TypeScript, Elasticsearch, and Kafka, but also have familiarity with Go, Kubernetes, Terraform and a few other different database technologies and languages.
+I also enjoy creating interactive electronics projects with Arduinos and microcontrollers for that event in the desert.
